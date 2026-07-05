@@ -1,17 +1,1 @@
-{
-  "name": "dropz-prophunt-3d",
-  "version": "1.0.0",
-  "description": "Render-ready multiplayer 3D Prop Hunt with map voting and prop transforms.",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js",
-    "dev": "node server.js"
-  },
-  "dependencies": {
-    "express": "^4.19.2",
-    "socket.io": "^4.7.5"
-  },
-  "engines": {
-    "node": ">=18"
-  }
-}
+{"scripts":{"start":"node server.js"},"dependencies":{"express":"^4.19.2","socket.io":"^4.7.5"},"engines":{"node":">=18"}}

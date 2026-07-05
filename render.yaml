@@ -2,7 +2,5 @@ services:
   - type: web
     name: dropz-prophunt-3d
     env: node
-    plan: free
     buildCommand: npm install
     startCommand: npm start
-    autoDeploy: true
